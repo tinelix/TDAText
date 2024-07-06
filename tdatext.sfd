@@ -5,7 +5,7 @@ FamilyName: TDAText
 Weight: Regular
 Copyright: Copyright (c) 2024 Dmitry Tretyakov\n\nBased on Philips SAA52XX/SAA55XX/TDA93XX IC character set:\nCopyright (c) 1993-2001 NXP Semiconductors N.V.
 UComments: "TDAText teletext-styled font family based on Philips SAA52XX/SAA55XX/TDA93XX IC character set and adapted for use in computer printing systems.+AAoACgAA-The font contains punctuation marks, Latin letters and Cyrillic letters.+AAoACgAA-However, the software behind these integrated circuits for TVs as especially popular in the late 90s and early 2000s. For example, Samsung often used these chips in CRT TVs built on the KS1A, KS9A/B, KS16A/C chassis."
-Version: 0.0.2.20240607-1111
+Version: 0.0.3.20240607-1323
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1720191932
-ModificationTime: 1720261376
+ModificationTime: 1720261908
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,7 +51,7 @@ NameList: AGL For New Fonts
 DisplaySize: 20
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 90 90 24
+WinInfo: 0 90 24
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114113 205
@@ -10406,7 +10406,7 @@ EndChar
 StartChar: uni0401
 Encoding: 1025 1025 97
 Width: 600
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Back
 Image2: image/png 119 100 800 50 50
@@ -10415,27 +10415,29 @@ M,6r;%14!\!!!!.8Ou6I!!!!*!!!!1!<W<%!<._nz##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
 EndImage2
 Fore
 SplineSet
-100 0 m 29
- 100 700 l 25
- 150 700 l 25
- 150 800 l 25
- 249 800 l 25
- 250 700 l 25
- 400 700 l 25
+400 700 m 25
  400 800 l 25
  500 800 l 25
  500 700 l 25
- 550 700 l 25
- 550 600 l 25
- 200 600 l 25
- 200 400 l 25
+ 400 700 l 25
+150 700 m 25
+ 150 800 l 25
+ 250 800 l 25
+ 250 700 l 25
+ 150 700 l 25
+550 500 m 1
+ 200 500 l 1
+ 200 400 l 1
  450 400 l 25
  450 300 l 25
  200 300 l 25
  200 100 l 25
  550 100 l 25
  550 0 l 25
- 100 0 l 29
+ 100 0 l 1
+ 100 600 l 1
+ 550 600 l 1
+ 550 500 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -12205,17 +12207,17 @@ EndImage2
 Fore
 SplineSet
 550 600 m 29
- 200 600 l 25
- 200 400 l 25
- 450 400 l 25
- 450 300 l 25
- 200 300 l 25
- 200 100 l 25
- 550 100 l 25
- 550 0 l 25
- 100 0 l 25
- 100 700 l 25
- 550 700 l 25
+ 200 600 l 29
+ 200 400 l 29
+ 450 400 l 29
+ 450 300 l 29
+ 200 300 l 29
+ 200 100 l 29
+ 550 100 l 29
+ 550 0 l 29
+ 100 0 l 29
+ 100 700 l 29
+ 550 700 l 29
  550 600 l 29
 EndSplineSet
 Validated: 1
@@ -20647,6 +20649,7 @@ SplineSet
  250 700 l 25
  150 700 l 25
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: acute
@@ -20822,6 +20825,7 @@ SplineSet
  100 100 l 1
  100 600 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Adieresis
@@ -20837,30 +20841,31 @@ M,6r;%14!\!!!!.8Ou6I!!!!+!!!!1!<W<%!#;bd!rr<$##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
 EndImage2
 Fore
 SplineSet
-150 400 m 29
- 150 300 l 25
+350 700 m 29
+ 350 800 l 29
+ 450 800 l 29
+ 450 700 l 29
+ 350 700 l 29
+150 700 m 29
+ 150 800 l 29
+ 250 800 l 29
+ 250 700 l 29
+ 150 700 l 29
+150 300 m 25
  450 300 l 25
  450 400 l 25
  400 400 l 25
- 400 500 l 25
- 350 500 l 25
- 350 600 l 25
- 250 600 l 25
- 250 500 l 25
+ 399 500 l 25
  200 500 l 25
- 200 400 l 25
- 150 400 l 29
-150 0 m 25
- 50 0 l 25
- 50 400 l 25
+ 199 400 l 25
+ 150 400 l 25
+ 150 300 l 25
+50 0 m 25
+ 50 400 l 1
  100 400 l 25
  100 500 l 25
  150 500 l 25
  150 600 l 25
- 200 600 l 25
- 200 700 l 25
- 399 700 l 25
- 400 600 l 25
  450 600 l 25
  450 500 l 25
  500 500 l 25
@@ -20870,9 +20875,9 @@ SplineSet
  450 0 l 25
  450 200 l 25
  150 200 l 25
- 150 0 l 25
+ 150 0 l 1
+ 50 0 l 25
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: adieresis
@@ -20921,6 +20926,7 @@ SplineSet
  100 400 l 25
  100 500 l 25
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: odieresis
@@ -20964,6 +20970,7 @@ SplineSet
  150 400 l 25
  150 500 l 25
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: germandbls
@@ -21009,6 +21016,7 @@ SplineSet
  150 600 l 1
  200 600 l 25
 EndSplineSet
+Validated: 5
 EndChar
 EndChars
 BitmapFont: 20 207 16 4 1
