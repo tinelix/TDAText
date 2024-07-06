@@ -1,5 +1,5 @@
 # TDAText
-TDAText teletext-styled font family based on Philips SAA52XX/SAA55XX/TDA93XX IC character set and adapted for use in computer printing systems.
+TDAText teletext-styled font family based on Philips SAA52XX/SAA55XX/TDA93XX IC character set and adapted for use in computer typography systems.
 
 The font contains punctuation marks, Latin, German letters and Cyrillic letters.
 
