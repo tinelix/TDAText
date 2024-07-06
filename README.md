@@ -16,4 +16,4 @@ The software behind these Philips TV chips was especially popular in the late 90
 * **Samsung**: KS1A, KS1B, KS2A, KS9A, KS9B, S16A, S16C and etc.
 * **LG**: MC-019A, MC-049B
 
-The current version of the font, called TDAText, also contains various improvements to accurately represent characters, including additional Unicode characters not originally included, and adaptation for computer typography systems, since square pixels (one pixel aspect ratio was 1:2 instead of 1:1).
+The current version of the font, called TDAText, also contains various improvements to accurately represent characters, including additional Unicode characters not originally included, and adaptation for computer typography systems, since square pixels were not used to display text or OSD information on the CRT TVs - pixel aspect ratio was 1:2 instead of 1:1.
