@@ -19,3 +19,14 @@ The software behind these Philips TV chips was especially popular in the late 90
 * **LG**: MC-019A, MC-049B
 
 The current version of the font, called _TDAText_, also contains various improvements to accurately represent characters, including additional Unicode characters not originally included, and adaptation for computer typography systems, since square pixels were not used to display text or OSD information on the CRT TVs - pixel aspect ratio was 1:2 instead of 1:1.
+
+## Known Limitations
+
+Due to the positioning of this font as a reworked version of IPO-Normal font, you may encounter some limitations when designing characters:
+
+* **Character matrix size:** 12x10 (Regular), 9x10 (Condensed)
+* **No glyphs for emojis** (later we will add only a small part)
+* **No available glyphs for Spanish, French languages**
+
+## License
+SIL Open Font License 1.1. See LICENSE.TXT file.
