@@ -24,9 +24,9 @@ The current version of the font, called _TDAText_, also contains various improve
 
 Due to the positioning of this font as a reworked version of IPO-Normal font, you may encounter some limitations when designing characters:
 
-* **Character matrix size:** 12x10 (Regular), 9x10 (Condensed)
-* **No glyphs for emojis** (later we will add only a small part)
-* **No available glyphs for Spanish, French languages**
+* **Character matrix size:** 12x10 (Regular), 12x15 (Condensed)
+* **Limited glyphs for emoji**
+* **No available glyphs for Spanish, French, Czech languages**
 
 ## License
 SIL Open Font License 1.1. See LICENSE.TXT file.
