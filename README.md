@@ -1,7 +1,8 @@
 # TDAText
 TDAText teletext-styled font family based on Philips SAA52XX/SAA55XX/TDA93XX IC character set and adapted for use in computer typography systems.
 
-The font contains punctuation marks, Latin, German letters and Cyrillic letters.
+The font contains punctuation, Latin, German, Spanish, Czech, French, Italian, Swedish, Estonian and Cyrillic letters, including Russian, Belarusian and Ukrainian, as well as more than 100 glyphs for emoji.
+
 
 ## Prehistory
 
@@ -27,7 +28,7 @@ Due to the positioning of this font as a reworked version of IPO-Normal font, yo
 
 * **Character matrix size:** 12x10 (Regular), 12x15 (Condensed)
 * **Limited glyphs for emoji**
-* **No available glyphs for Spanish, French, Czech languages**
+* **No available glyphs for Polish, Rumanian languages**
 * **A comfortable size for displaying characters on the screen is 15pt or (n\*15)pt at 96 dpi.**
 
 ## License
