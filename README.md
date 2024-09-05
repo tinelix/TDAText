@@ -3,6 +3,7 @@ TDAText teletext-styled font family based on Philips SAA52XX/SAA55XX/TDA93XX IC 
 
 The font contains punctuation, Latin, German, Spanish, Czech, French, Italian, Swedish, Estonian and Cyrillic letters, including Russian, Belarusian and Ukrainian, as well as more than 100 glyphs for emoji.
 
+<img src="https://github.com/tinelix/TDAText/blob/main/example/example.png"></img>
 
 ## Prehistory
 
