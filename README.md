@@ -33,4 +33,4 @@ Due to the positioning of this font as a reworked version of IPO-Normal font, yo
 * **A comfortable size for displaying characters on the screen is 15pt or (n\*15)pt at 96 dpi.**
 
 ## License
-SIL Open Font License 1.1. See LICENSE.TXT file.
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at http://scripts.sil.org/OFL
