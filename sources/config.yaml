@@ -1,0 +1,9 @@
+sources:
+  - tdatext.ufo
+  - tdatext-cond.ufo
+familyName: "TDAText"
+outputDir: "../fonts"
+buildOTF: false
+googleFonts: true
+removeOutlineOverlaps: false
+buildVariable: false
