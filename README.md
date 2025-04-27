@@ -3,7 +3,7 @@ TDAText teletext-styled font family based on Philips SAA52XX/SAA55XX/TDA93XX IC 
 
 The font contains punctuation, Latin, German, Spanish, Czech, French, Italian, Swedish, Estonian and Cyrillic letters, including Russian, Belarusian and Ukrainian, as well as more than 100 glyphs for emoji.
 
-<img src="https://github.com/tinelix/TDAText/blob/main/example/example.png"></img>
+<img src="https://github.com/tinelix/TDAText/blob/main/documentation/images/example.png"></img>
 
 ## Prehistory
 
@@ -33,4 +33,4 @@ Due to the positioning of this font as a reworked version of IPO-Normal font, yo
 * **A comfortable size for displaying characters on the screen is 15pt or (n\*15)pt at 96 dpi.**
 
 ## License
-SIL Open Font License 1.1. See LICENSE.TXT file.
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at http://scripts.sil.org/OFL
