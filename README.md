@@ -11,7 +11,7 @@ An [initial version of the original font](https://www.semanticscholar.org/paper/
 
 Although earlier attempts to create a similar font were in September 1985 with the release of the [**SAA5240**](https://www.datasheetarchive.com/pdf/download/distributors/Datasheets-110/DSAP005626.pdf?h=f040ef4a86f6fb2f9ac3826ca5f64bd2%3A0b9fcd8d0a9ce28cbd7bc41751e9abb8dfd6%3Ad1715a0eea44a834c47e57efaf3bdfb8) IC from Signetics.
 
-In November of the same year, Philips Semiconductors (now a known as NXP) introduced one of the first video processors with teletext support, the **SAA5231**. And 4.5 years later, it introduced the **SAA5243** teletext decoder, which used external modifications of the IPO-Normal font as **SAA5240**. Later, separate versions of video processors were released without teletext decoding, but with teletext-style character generation, such as the **SAA5541**.
+In November 1986, Philips Semiconductors (now a known as NXP) introduced one of the first video processors with teletext support, the **SAA5231**. And 4.5 years later, it introduced the **SAA5243** teletext decoder, which used external modifications of the IPO-Normal font as **SAA5240**. Later, separate versions of video processors were released without teletext decoding, but with teletext-style character generation, such as the **SAA5541**.
 
 The following symbols have been changed: `$` (dollar sign), `%` (percent sign), `&` (ampersand), `@` (at), `x` and `y` letters.
 
