@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1720191932
-ModificationTime: 1761142578
+ModificationTime: 1761142773
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -86,7 +86,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 360 18 8
+WinInfo: 414 18 8
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114113 667
@@ -28233,13 +28233,12 @@ M,6r;%14!\!!!!.8Ou6I!!!!'!!!!'!<W<%!87L&$NL/,##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
 EndImage2
 Fore
 SplineSet
-225 -199 m 1,0,1
- 225 101 l 1,2,3
- 375 101 l 1,4,5
- 375 -199 l 1,6,7
- 225 -199 l 1,0,1
+225 100 m 13,0,1
+ 225 800 l 1,2,3
+ 375 800 l 1,4,5
+ 375 100 l 1,6,7
+ 225 100 l 13,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniEE60
@@ -29267,6 +29266,7 @@ SplineSet
  150 -200 l 1,10,11
  0 -200 l 1,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uniEE33
@@ -29406,6 +29406,7 @@ SplineSet
  150 500 l 1,14,15
  0 500 l 1,8,9
 EndSplineSet
+Validated: 5
 EndChar
 EndChars
 BitmapFont: 40 667 32 8 1
@@ -31272,8 +31273,8 @@ s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ng
 BDFChar: 615 61034 12 12 23 -8 31
 s7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'X
 s7$'Xs7$'Xs7$'Xs7$'Xs7$'X
-BDFChar: 616 60970 12 12 23 -8 3
-s7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'X
+BDFChar: 616 60970 12 12 23 4 31
+s7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'X
 BDFChar: 617 61024 12 12 23 -8 3
 s7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'X
 BDFChar: 618 60990 12 0 23 -8 31
