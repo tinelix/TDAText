@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1720191932
-ModificationTime: 1761142365
+ModificationTime: 1761142578
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -86,10 +86,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 378 18 8
+WinInfo: 360 18 8
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114113 666
+BeginChars: 1114113 667
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -28218,6 +28218,7 @@ SplineSet
  375 -200 l 1,6,7
  225 -200 l 13,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uniEE2A
@@ -29258,15 +29259,14 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-0 100 m 1,0,1
+0 -200 m 1,0,1
  0 800 l 1,2,3
  300 800 l 1,4,5
  300 500 l 1,6,7
  150 500 l 1,8,9
- 150 100 l 1,10,11
- 0 100 l 1,0,1
+ 150 -200 l 1,10,11
+ 0 -200 l 1,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniEE33
@@ -29387,8 +29387,28 @@ SplineSet
 EndSplineSet
 Validated: 1
 EndChar
+
+StartChar: uniEE69
+Encoding: 61033 61033 666
+Width: 300
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+150 500 m 1,0,1
+ 300 500 l 1,2,3
+ 300 -200 l 1,4,5
+ 150 -200 l 1,6,7
+ 150 500 l 1,0,1
+0 500 m 1,8,9
+ 0 800 l 1,10,11
+ 150 800 l 1,12,13
+ 150 500 l 1,14,15
+ 0 500 l 1,8,9
+EndSplineSet
+EndChar
 EndChars
-BitmapFont: 40 666 32 8 1
+BitmapFont: 40 667 32 8 1
 BDFChar: 0 1114112 12 0 0 0 0
 z
 BDFChar: 1 0 12 0 0 0 0
@@ -31387,9 +31407,10 @@ s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!!"])0&,uV?rr<T0!"])0&,uV?rr<T0!"])0&,uV?rr<T0
 
 BDFChar: 657 60964 12 0 11 4 19
 s7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'Xs7$'X
-BDFChar: 658 60983 12 0 23 4 31
+BDFChar: 658 60983 12 0 23 -8 31
 s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ng
-s6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ng
+s6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ng
+
 BDFChar: 659 60979 12 0 23 -8 31
 s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!zzzzzzzzzzzzs6p$gn,WLX!<;Ng
 s6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ng
@@ -31411,5 +31432,9 @@ s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
 BDFChar: 665 61041 12 0 23 -8 31
 s6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ngzzzzzzzzzzzzs8W-!s8W-!s8W-!
 s8W-!s8W-!s8W-!s8W-!s8W-!s8W-!
+BDFChar: 666 61033 12 0 23 -8 31
+s6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ngs6p$gn,WLX!<;Ng!"])0&,uV?rr<T0!"])0&,uV?rr<T0
+!"])0&,uV?rr<T0!"])0&,uV?rr<T0!"])0&,uV?rr<T0!"])0&,uV?rr<T0!"])0&,uV?rr<T0
+
 EndBitmapFont
 EndSplineFont
