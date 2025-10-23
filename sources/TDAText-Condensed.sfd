@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1720191932
-ModificationTime: 1761200761
+ModificationTime: 1761200991
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -117,6 +117,8 @@ Image2: image/png 98 550 -150 50 50
 M,6r;%14!\!!!!.8Ou6I!!!!"!!!!"!<W<%!%$B#aoDDA##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
 5j$^2!!!!+8OPjD#T[DO!rr<L!%/!7Us]5C!!#SZ:.26O@"J@Y
 EndImage2
+Fore
+Validated: 1
 EndChar
 
 StartChar: nonmarkingreturn
@@ -130,6 +132,8 @@ Image2: image/png 98 550 -150 50 50
 M,6r;%14!\!!!!.8Ou6I!!!!"!!!!"!<W<%!%$B#aoDDA##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
 5j$^2!!!!+8OPjD#T[F%!!!!K!%I88`TI4$!!#SZ:.26O@"J@Y
 EndImage2
+Fore
+Validated: 1
 EndChar
 
 StartChar: space
